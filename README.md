@@ -1,0 +1,2 @@
+# Amazon-ASIN-Review-Scraper
+Scraper designed in Python Programming language is used to scrape various data from the live Amazon website .  The Spider uses the Amazon ASIN to identify each product and then scrape through same to obtain the required data like Brand, Description, Quantity, Weight , Rating ,  Reviews, Comments , Availability and so on. The spider send request to all the pages and retrieve the data in the necessary format like CSV ,  JSON etc. 
